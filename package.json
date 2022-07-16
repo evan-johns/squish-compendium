@@ -1,0 +1,22 @@
+{
+  "name": "squish-compendium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evan-johns/squish-compendium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evan-johns/squish-compendium/issues"
+  },
+  "homepage": "https://github.com/evan-johns/squish-compendium#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
